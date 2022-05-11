@@ -1,0 +1,156 @@
+body {
+	background-color: black;
+}
+
+img {
+  	display: block;
+  	margin-left: auto;
+ 	margin-right: auto;
+ 	width: 100%;
+}
+
+h1 {
+	font-size: 50px;
+	text-align: center;
+	font-family: "Lucida Console", "Courier New", monospace;
+	color: white;
+
+}
+
+p {
+	font-size: 25px;
+	font-family: "Cursive", "Lucida Handwriting";
+	color: white;
+	text-align: center;
+}
+
+.topnav {
+	overflow: hidden;
+	background-color: #052618;
+}
+
+.topnav a {
+	float: right;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	font-size: 30px;
+}
+
+.topnav a:hover {
+	background-color: gray;
+	color: black;
+}
+
+.topnav a.active {
+	background-color: gray;
+	color: white;
+}
+
+.icons {
+  width: 100%;
+  padding: 60px;
+  background: #b6dfca;
+}
+
+.image {
+	width: 20%;
+	height: 30%;
+	align-content: horizontal;
+}
+
+.image2 {
+	width: 20%;
+	height: 30%;
+	align-content: horizontal;
+}
+
+.image3 {
+	width: 20%;
+	height: 30%;
+	align-content: horizontal;
+}
+
+.image p2 {
+	size: 90%;
+}
+
+h2 {
+	text-align: center;
+	font-size: 35px;
+	font-color: blue;
+}
+
+.logo{
+	height: 10%;
+	width: 10%;
+}
+
+p3 {
+	color: black;
+	font-weight: bold;
+	font-size: 20px
+}
+
+h4 {
+	color: white;
+	text-align: center;
+	font-size: 50px;
+}
+
+.worksimg {
+	text-align: center;
+	background-color: #b6dfca;
+}
+
+.worksimg2 {
+	text-align: center;
+		background-color: #b6dfca;
+
+}
+
+.worksimg3 {
+	text-align: center;
+		background-color: #b6dfca;
+
+}
+
+.worksimg4 {
+	text-align: center;
+		background-color: #b6dfca;
+
+}
+
+.worksimg5 {
+	text-align: center;
+		background-color: #b6dfca;
+}
+
+.footer {
+	background-color: #052618;
+}
+
+h3 {
+	text-align: center;
+	color: white;
+}
+
+a {
+	color: white;
+}
+
+.donateimg {
+	text-align: center;
+	color: white;
+}
+
+.donateheader{
+	background-color:  #b6dfca;
+	text-color: white;
+}
+
+h5 {
+	text-align: center;
+	font-size: 30px
+}
